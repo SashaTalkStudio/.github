@@ -1,4 +1,4 @@
-##### [English](README.md) | Русский
+##### [English](profile/README.md) | Русский
 # Sasha Talk Studio
 ## Кто мы
 Мы - небольшая команда разработчиков в Российской Федерации
